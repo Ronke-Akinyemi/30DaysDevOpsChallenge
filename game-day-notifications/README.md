@@ -1,5 +1,5 @@
 # 30DaysDevOpsChallenge DAY 2: NBA Game Day Notifications/Sports Alerts System
-![Sportsdata.io](/sportsdataio.png)
+![Sportimage](/sports.png)
 
 ## Project Overview
 
@@ -104,5 +104,4 @@ This project is an alert system that sends real-time NBA game day score notifica
     - Automating workflows using EventBridge.
     - Integrating external APIs into cloud-based workflows.
 
-![NBA Game Updates](/image2.png)
-
+    ![NBA Game Updates](/image2.png)
